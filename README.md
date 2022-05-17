@@ -12,7 +12,7 @@ Command Assistant Is The Terminal For The CA Operating System Fot Doing Complex 
 5. ping : To get ping.
 6. time : To get current time.
 7. date : To get curremt date.
-8. news : To get top 10 news of the day.
+8. news : To get top 20 news of the day.
 9. textpad : Open textpad.
 10. config settings : Open settings.
 11. username : To know your username.
