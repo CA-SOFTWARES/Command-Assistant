@@ -1,7 +1,7 @@
 # Command-Assistant
 Command Assistant Is The Terminal For The CA Operating System Fot Doing Complex Operation.
 
-# Some Helpfull Command's | [Tutorial Video]()
+# Some Helpful Command's | [Tutorial Video]()
 1. os.ls : To list out files and folders in the following path.
 2. vipe : To open the file.
 3. rs : To restart the CA.
